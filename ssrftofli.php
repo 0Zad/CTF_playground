@@ -1,1 +1,1 @@
-<?php header('location:file://'.$_REQUEST['url']); ?>
+<?php echo 'Hello, World!'; ?>
